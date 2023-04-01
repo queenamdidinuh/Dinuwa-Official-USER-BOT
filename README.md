@@ -55,7 +55,7 @@
 
 ## ```HEROKU DEPLOYMENT```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dinuwah/-Dinuwa-Official-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dinuwah/Dinuwa-Official-USER-BOT)
 ---------
 
 ## ```STEPS TO DEPLOY ON HEROKU```
